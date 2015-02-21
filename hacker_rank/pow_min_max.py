@@ -1,3 +1,7 @@
+# problem -  https://www.hackerrank.com/contests/supercoder-or-pseudocoder/challenges/power-of-minimum-and-maximum
+
+# solution
+
 import sys
 n = int(raw_input())
 arr = [int(i) for i in raw_input().strip().split()]
